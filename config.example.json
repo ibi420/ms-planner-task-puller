@@ -1,0 +1,10 @@
+[
+  {
+    "planId": "YOUR_PLAN_ID_HERE",
+    "name": "Project Board"
+  },
+  {
+    "planId": "ANOTHER_PLAN_ID_HERE",
+    "name": "Sprint Board"
+  }
+]

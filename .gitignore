@@ -1,0 +1,30 @@
+# Local plan configuration (use config.example.json as template)
+config.json
+
+# Execution logs
+logs/
+*.log
+
+# Exported task reports and data
+*.csv
+ont.md
+
+# Large video assets
+*.mp4
+
+# API debug dumps
+task.txt
+taskreturn.txt
+user..txt
+RefReturn.txt
+
+# OS metadata
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# IDE and Editor directories
+.vscode/
+.idea/
+*.swp
+*~
